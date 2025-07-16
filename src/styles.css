@@ -35,7 +35,7 @@ margin-right: 15px;
 }
 /* sidebarend */
 .hero-section {
-  background-image: url('images/hero-section.jpg');
+  /* background-image: url('images/hero-section.jpg'); */
   background-size: cover;  
   background-position: center;
   background-repeat: no-repeat;
